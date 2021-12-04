@@ -1,0 +1,17 @@
+.container{
+	min-height: 100vh;
+	display: flex;
+	font-family: Helvetica, Arial;
+}
+
+
+.container .content{
+	flex-grow: 1;
+	padding: 20px;
+}
+
+.leftbar{
+	width: 300px;
+	background-color: #73A7EB;
+	color: #fff;
+}
